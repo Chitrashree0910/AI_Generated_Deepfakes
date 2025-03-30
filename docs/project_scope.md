@@ -37,6 +37,7 @@ Deepfake technology has been integrated into the entertainment industry in contr
     - **Example**: In Justice League, Warner Bros. could have used deepfake tech to remove Henry Cavill’s mustache properly instead of using CGI (which resulted in unnatural visuals)
 
     ![Deepfake_Image](../images/cgi_removal.jpg)
+    
     *CGI removal of Henry Cavill’s moustache in Justice League (Picture: Warner Bros)*
 
 3. **Voice Cloning for Dubbing & Localization**: AI-generated voices enable actors to "speak" multiple languages by adjusting lip movements and voice tones for different markets
