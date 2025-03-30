@@ -23,7 +23,7 @@ Deepfakes are **AI-generated images, videos, or audio that manipulate real or fi
 
 Deepfake technology has been integrated into the entertainment industry in controlled and ethical ways, primarily to improve storytelling and efficiency.
 
-- **CGI & VFX Enhancements** like **De-aging Actors**: Studios use AI-powered deepfakes to make actors appear younger for flashback scenes instead of using makeup or recasting
+1. **CGI & VFX Enhancements** like **De-aging Actors**: Studios use AI-powered deepfakes to make actors appear younger for flashback scenes instead of using makeup or recasting
     - **Example 1**: The Irishman (Netflix) used deepfake-like AI to de-age Robert De Niro and Al Pacino
     ![Deepfake_Image](../images/Robert_Deniro_Deepfake.png)
     *(Image credit: Shamook on YouTube)*
@@ -32,21 +32,22 @@ Deepfake technology has been integrated into the entertainment industry in contr
     ![Deepfake_Image](../images/luke_starwarsdeepfake.jpg)
     *(Image credit: bbc newsaround)*
 
-- **Scene Reshoots & Post-Production Fixes**: Deepfake technology allows filmmakers to modify an actor’s facial expressions or lip movements without expensive reshoots
+2. **Scene Reshoots & Post-Production Fixes**: Deepfake technology allows filmmakers to modify an actor’s facial expressions or lip movements without expensive reshoots
 
     - **Example**: In Justice League, Warner Bros. could have used deepfake tech to remove Henry Cavill’s mustache properly instead of using CGI (which resulted in unnatural visuals)
+
     ![Deepfake_Image](../images/cgi_removal.jpg)
     *CGI removal of Henry Cavill’s moustache in Justice League (Picture: Warner Bros)*
 
-- **Voice Cloning for Dubbing & Localization**: AI-generated voices enable actors to "speak" multiple languages by adjusting lip movements and voice tones for different markets
+3. **Voice Cloning for Dubbing & Localization**: AI-generated voices enable actors to "speak" multiple languages by adjusting lip movements and voice tones for different markets
     - **Example**: Disney+ and Netflix have experimented with AI-powered dubbing to improve global releases
 
-- **Bringing Deceased Actors Back to Screen**: Deepfake technology has been used to recreate late actors for final performances or cameos, with permission from estates
+4. **Bringing Deceased Actors Back to Screen**: Deepfake technology has been used to recreate late actors for final performances or cameos, with permission from estates
     - **Example**: Rogue One: A Star Wars Story recreated Grand Moff Tarkin (Peter Cushing) and a young Princess Leia (Carrie Fisher)
     ![Deepfake_Image](../images/Tarkin-deepfake.jpg)
     *(Image credit: screenrant)*
 
-- **Personalized Entertainment Experiences**: Deepfake-based customization allows viewers to "swap" actors in a movie based on personal preferences
+5. **Personalized Entertainment Experiences**: Deepfake-based customization allows viewers to "swap" actors in a movie based on personal preferences
     - **Example**: AI-driven movie editing apps allow users to insert themselves into famous scenes
 
 ---
@@ -55,22 +56,22 @@ Deepfake technology has been integrated into the entertainment industry in contr
 
 The use of deepfakes in the entertainment industry raises significant ethical and legal concerns, including issues related to **copyright infringement, defamation, and the invasion of privacy**. Unauthorized deepfakes can lead to **legal battles** and **damage the reputations of celebrities and studios**.
 
-- **Fake Celebrity Endorsements & Advertisements**: Deepfake ads have falsely made celebrities endorse products, deceiving fans and damaging reputations
+1. **Fake Celebrity Endorsements & Advertisements**: Deepfake ads have falsely made celebrities endorse products, deceiving fans and damaging reputations
 
     - **Example**: Deepfake Tom Cruise videos went viral on TikTok in 2021, showcasing how realistic fake content can be
     ![Deepfake_Image](../images/deepfake-tom-cruise-tiktok.jpg)
     *This looks like Tom Cruise doing a coin trick, but it's actually a deepfake created by Chris Umé. From TikTok*
 
-- **Unauthorized Performance Replication**: AI-generated voices and faces can create fake performances, allowing unauthorized usage of an actor’s likeness
+2. **Unauthorized Performance Replication**: AI-generated voices and faces can create fake performances, allowing unauthorized usage of an actor’s likeness
     - **Example**: Voice deepfakes of Morgan Freeman and David Attenborough have been used in unauthorized videos
 
-- **Deepfake Manipulation in Film & TV Leaks**: Fake movie clips or altered trailers can mislead audiences and create false hype or controversy
+3. **Deepfake Manipulation in Film & TV Leaks**: Fake movie clips or altered trailers can mislead audiences and create false hype or controversy
     - **Example**: AI-generated "leaked" scenes from upcoming Marvel movies have surfaced online, confusing fans
 
-- **Harmful Misinformation & Fake Interviews**: Deepfake AI can generate fabricated interviews or statements attributed to actors, potentially harming their reputations
+4. **Harmful Misinformation & Fake Interviews**: Deepfake AI can generate fabricated interviews or statements attributed to actors, potentially harming their reputations
     - **Example**: Fake interviews of actors spreading false information about upcoming projects
 
-- **Non-Consensual & Exploitative Content**: One of the biggest ethical concerns in entertainment is **unauthorized** deepfake videos used to manipulate actors into inappropriate content
+5. **Non-Consensual & Exploitative Content**: One of the biggest ethical concerns in entertainment is **unauthorized** deepfake videos used to manipulate actors into inappropriate content
     - **Example**: Several actresses have faced deepfake video scandals without their consent
 
 ### **Problem Statement**
